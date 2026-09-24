@@ -46,5 +46,5 @@ Public dataset used for learning purposes.
 | `dashboard.pbix` | Power BI dashboard file |
 
 ## 👤 Author
-**Amit Sigh*n*  
+Amit Sigh <br>
 [LinkedIn](linkedin.com/in/amit-singh-da) | [GitHub]([your-github-url](https://github.com/amitsingh-uit/Customer-Journey-Purchase-Intent-Analytics-Dashboard/edit/main/README.md))
